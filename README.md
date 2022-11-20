@@ -62,8 +62,9 @@ karachi, PK
 #### MSM Academy s.r.o. · Contract
 Sep 2016 - Sep 2018 
 Prague, Czechia
+<br />
 
-#### University Degree - MSc Bioinformatics (Data Sciecne)
+### University Degree - MSc Bioinformatics (Data Sciecne)
 
 <img height = 60 src = 'https://upload.wikimedia.org/wikipedia/de/7/71/Fub-logo.svg' />
 <br />
@@ -86,23 +87,23 @@ Prague, Czechia
 <code><img width="10%" height=50 src= 'https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg'></code>
 <code><img width="10%" height=50 src= 'https://matplotlib.org/_static/logo2.svg'></code>
 </code><img height=50 width="10%" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" /></code>
+<br />
 
 
 ##### IDE
-
 
 </code><img height=30 src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/></code>
 </code><img height=30 src = 'https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white' /></code>
 </code><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></code>
 </code><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
-
+<br />
 
 ##### Database Management Systems
 
 </code><img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
 </code><img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </code><img height = 50 width="15%" src="https://www.beekeeperstudio.io/static/press-kit/bk-logo-full-lightbg.svg" />
-
+<br />
 
 ##### Data Visualization & Dashboard
 
@@ -110,39 +111,44 @@ Prague, Czechia
 </code><img height = 30 src= 'https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white' />
 </code><img height = 30 src= 'https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white' />
 </code>[<img height=50 src = 'https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg'/>](https://www.r-project.org/)</code>
+<br />
 
 ##### Big data API
 
 </code><img height = 50 src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" /></code>
+<br />
 
 ##### Courses Certification
 
 <img height = 30 src = 'https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg' />
-
+<br />
 
 ##### Cloud Architecture
 
 <img height = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/></code>
 </code><img height = 50 src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg" /></code>
+<br />
 
 ##### Bioinformatics tools
 
 <img height = 70 src="https://upload.wikimedia.org/wikipedia/en/a/a0/MEGA7_logo.png" />
-
+<br />
 
 ##### software system for document preparation
 
 <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 <img height = 30 src= https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black' />
-
-### collaborative Platform
+<br />
+															       
+#### collaborative Platform
 
 </code><img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/></code>
 </code><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></code> 
 </code><img height=50 src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"/></code>
-</code><img height=50 src="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg"/></code>															       
+</code><img height=50 src="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg"/></code>
+<br />															       
 															       
- ### 📫 How to reach me:
+##### 📫 How to reach me
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zluvsand/)
 
