@@ -13,6 +13,7 @@ I'm a motivated, team work-oriented and responsible Data Engineer with experienc
 
 #### Data Engineer (Sep 2022 – Present)
 Ceracreen, Hamburg – Germany
+
 Implement data flows to connect data for analytics and BI applications.
 Create, and maintain dashboards (AWS Quick Sight) for meaningful insights to facilitate data-driven decision.
 Support data management workflow and translate business requirements to design, build and deploy data 
@@ -21,36 +22,31 @@ pipelines and ETL solutions from source to output, leveraging AWS, dbt.
 
 </code><img height=50 src="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_Charite.svg"/></code>
 
-##### Master Thesis
-Charité · ContractCharité · Contract
-Jan 2022 - Jul 2022 · 7 mos 
-Germany, Berlin
+##### Master Thesis (Jan 2022 - Jul 2022)
+Berlin, Germany
+
 Abstract :
 Analysis of sources of variance in animals behavioral activity in OFT using historical control data with the help of descriptive statistics, exploratory data analysis via visualization and statistical modelling in the hopes of enhancing reproducibility in preclinical translational research.
 
 
-</code><img height=50 src="https://upload.wikimedia.org/wikipedia/commons/b/b4/BIH_Logo_at-Charite_kurz_quer_rgb.jpg"/></code>
+</code><img height=50 width="20%" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/BIH_Logo_at-Charite_kurz_quer_rgb.jpg"/></code>
 
-#### Data Analyst & Machine Learning Intern
-Berlin Institute of Health · Internship
-
-Jun 2021 - Aug 2021 · 3 mos
+#### Data Analyst & Machine Learning Intern (Jun 2021 - Aug 2021)
 Berlin, Germany
 
 • Data collection, analyzing the data, create reports and present findings.
 • Applying ML models to data to assess changes in animal behaviour in response to anxiolytic drugs.
 
-#### The Kidney Centre (Post Graduate Training Institute) 
-· Full-timeThe Kidney Centre (Post Graduate Training Institute) · Full-time
-Feb 2017 - Mar 2019 · 2 yrs 2 mos
-karachi
+#### The Kidney Centre (Post Graduate Training Institute) (Feb 2017 - Mar 2019) 
+karachi, PK
+
 • Performed analysis and evaluation on medical data on weekly basis.
 • Collaborate with experts in the field to develop custom data analysis.
 • Identify, manage, and contribute to external collaborations relevant to bioinformatics discovery.
 • Answering customer queries and fixing issues remotely. 
 
 #### MSM Academy s.r.o. · Contract
-Sep 2016 - Sep 2018 · 2 yrs 1 mo
+Sep 2016 - Sep 2018 
 Prague, Czechia
 
 #### University Degree - MSc Bioinformatics (Data Sciecne)
