@@ -9,10 +9,10 @@ I'm a motivated, team work-oriented and responsible Data Engineer with experienc
 
 ### Professional Experience
 
-</code><img height=60 width="15%" src="https://raw.githubusercontent.com/jaleedaslam/jaleedaslam/main/logo_cerascreen.webp"/></code>
+</code><img height=60 width="20%" src="https://github.com/jaleedaslam/jaleedaslam/blob/main/Cera.png"/></code>
 
 #### Data Engineer (Sep 2022 – Present)
-Ceracreen, Hamburg – Germany
+Hamburg, Germany
 
 Implement data flows to connect data for analytics and BI applications.
 Create, and maintain dashboards (AWS Quick Sight) for meaningful insights to facilitate data-driven decision.
