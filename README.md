@@ -37,6 +37,9 @@ Berlin, Germany
 • Data collection, analyzing the data, create reports and present findings.
 • Applying ML models to data to assess changes in animal behaviour in response to anxiolytic drugs.
 
+
+</code><img height=60 width="10%" src="https://github.com/jaleedaslam/jaleedaslam/blob/main/TKC.jpeg"/></code>
+
 #### The Kidney Centre (Post Graduate Training Institute) (Feb 2017 - Mar 2019) 
 karachi, PK
 
