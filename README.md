@@ -8,6 +8,17 @@
 I'm a motivated, team work-oriented and responsible Data Engineer with experience in data science projects, including data collection and analyzing, creating reports and present findings. Highly educated, possessing master degree in Informatics with Data Science as major module and professional certificates in analytics and statistics. Passionate about building models that fix problems. Relevant skills include machine learning, problem solving, programming, and creative thinking.
 
 ### Experience
+
+</code><img height=60 width="15%" src="https://raw.githubusercontent.com/jaleedaslam/jaleedaslam/main/logo_cerascreen.webp"/></code>
+
+#### Data Engineer (Sep 2022 – Present)
+Ceracreen, Hamburg – Germany
+Implement data flows to connect data for analytics and BI applications.
+Create, and maintain dashboards (AWS Quick Sight) for meaningful insights to facilitate data-driven decision.
+Support data management workflow and translate business requirements to design, build and deploy data 
+pipelines and ETL solutions from source to output, leveraging AWS, dbt.
+
+
 </code><img height=50 src="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_Charite.svg"/></code>
 
 ##### Master Thesis
