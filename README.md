@@ -66,30 +66,29 @@ Prague, Czechia
 #### University Degree - MSc Bioinformatics (Data Sciecne)
 
 <img height = 60 src = 'https://upload.wikimedia.org/wikipedia/de/7/71/Fub-logo.svg' />
+<br />
 
-<details>
-    <summary><b>🛠️ Languages & Tools</b></summary><br/>
-    Sample text
-</details>
+ ### 🛠️ Languages & Tools
 
-</code>[<img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"/>](https://www.google.com/)
+##### Programming Languages
+</code>[<img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"/>](https://www.google.com/)</code>
 </code>[<img height=50 src = 'https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg' />](https://www.r-project.org/)</code>
+</code>[<img height=50 src = 'https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png' />](https://www.r-project.org/)</code>
 <br /> 
 
-
-### Programming Libraries
+##### Programming Libraries
 
 </code><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></code>
 </code><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" /></code>
-</code><img height=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" />
+</code><img height=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" /></code>
 <code><img width="5%" height=50 src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg"></code>
 <code><img width="10%" height=50 src= 'https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg'></code>
 <code><img width="10%" height=50 src= 'https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg'></code>
 <code><img width="10%" height=50 src= 'https://matplotlib.org/_static/logo2.svg'></code>
-</code><img height=50 src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" /></code>
+</code><img height=50 width="10%" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" /></code>
 
 
-### IDE
+##### IDE
 
 
 </code><img height=30 src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/></code>
@@ -98,40 +97,40 @@ Prague, Czechia
 </code><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
 
 
-### Database Management Systems
+##### Database Management Systems
 
 </code><img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
 </code><img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </code><img height = 50 width="15%" src="https://www.beekeeperstudio.io/static/press-kit/bk-logo-full-lightbg.svg" />
 
 
-### Data Visualization & Dashboard
+##### Data Visualization & Dashboard
 
 
 </code><img height = 30 src= 'https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white' />
 </code><img height = 30 src= 'https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white' />
 </code>[<img height=50 src = 'https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg'/>](https://www.r-project.org/)</code>
 
-### Big data API
+##### Big data API
 
 </code><img height = 50 src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" /></code>
 
-### Courses Certification
+##### Courses Certification
 
 <img height = 30 src = 'https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg' />
 
 
-### Cloud Architecture
+##### Cloud Architecture
 
 <img height = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/></code>
 </code><img height = 50 src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg" /></code>
 
-### Bioinformatics tools
+##### Bioinformatics tools
 
 <img height = 70 src="https://upload.wikimedia.org/wikipedia/en/a/a0/MEGA7_logo.png" />
 
 
-### software system for document preparation
+##### software system for document preparation
 
 <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 <img height = 30 src= https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black' />
