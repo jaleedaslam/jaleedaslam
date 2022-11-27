@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Jaleed-Aslam - Data Engineer 
+### Hi there 👋, I'm Jaleed Aslam - Data Engineer 
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="750" height="250"/>
