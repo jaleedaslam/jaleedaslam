@@ -128,8 +128,8 @@ Prague, Czechia
 
 ##### Courses Certification
 
-<br/><img height = 30 src = 'https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg'/><br/>
-<br/><img height = 40 src = 'https://github.com/jaleedaslam/jaleedaslam/blob/main/is-datacamp-worth-it.png' /><br/>
+</code><img height = 30 src = 'https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg'/></code>
+</code><img height = 40 src = 'https://github.com/jaleedaslam/jaleedaslam/blob/main/is-datacamp-worth-it.png' /></code>
 <br/>
 
 ##### Cloud Architecture
@@ -140,8 +140,9 @@ Prague, Czechia
 
 ##### Bioinformatics tools
 
-</code><img height = 70 src="https://upload.wikimedia.org/wikipedia/en/a/a0/MEGA7_logo.png" /></code>
-</code><img height = 60 src="https://github.com/jaleedaslam/jaleedaslam/blob/main/logo-copasi-sm.jpg"/></code>
+<img height = 80 src="https://upload.wikimedia.org/wikipedia/en/a/a0/MEGA7_logo.png" />
+<img height = 60 width="10%" src="https://github.com/jaleedaslam/jaleedaslam/blob/main/copasi-logo.png"/>
+
 <br />
 
 ##### Software system for document preparation
