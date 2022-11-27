@@ -141,7 +141,7 @@ Prague, Czechia
 ##### Bioinformatics tools
 
 </code><img height = 70 src="https://upload.wikimedia.org/wikipedia/en/a/a0/MEGA7_logo.png" /></code>
-</code><img height = 70 src="https://github.com/jaleedaslam/jaleedaslam/blob/main/logo-copasi-sm.jpg"/></code>
+</code><img height = 60 src="https://github.com/jaleedaslam/jaleedaslam/blob/main/logo-copasi-sm.jpg"/></code>
 <br />
 
 ##### Software system for document preparation
