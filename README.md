@@ -128,8 +128,9 @@ Prague, Czechia
 
 ##### Courses Certification
 
-<img height = 30 src = 'https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg' />
-<br />
+<br/><img height = 30 src = 'https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg'/><br/>
+<br/><img height = 40 src = 'https://github.com/jaleedaslam/jaleedaslam/blob/main/is-datacamp-worth-it.png' /><br/>
+<br/>
 
 ##### Cloud Architecture
 
