@@ -16,10 +16,16 @@ Hamburg, Germany
 
 • Implement data flows to connect data for analytics and BI applications.
 <br />
+• Analyze, interpret, and visualize large datasets on a daily basis.
+<br />
 • Create, and maintain dashboards (AWS Quick Sight) for meaningful insights to facilitate data-driven decision.
 <br />
-• Support data management workflow and translate business requirements to design, build and deploy data 
-  pipelines and ETL solutions from source to output, leveraging AWS, dbt.
+• Create and support data management workflow and translate business requirements
+<br />
+• Build and deploy data pipelines and ETL solutions from source to output, leveraging cloud architecture.
+<br />
+• Work closely with IT team to monitor and manage the company's cloud security and data flow.
+
 
 <br />
 <br />
@@ -39,6 +45,8 @@ Analysis of sources of variance in animals behavioral activity in OFT using hist
 #### Data Analyst & Machine Learning Intern (Jun 2021 - Aug 2021)
 Berlin, Germany
 
+• Data collection, analyzing the data, create reports and present findings.
+<br />
 • Data collection, analyzing the data, create reports and present findings.
 <br />
 • Applying ML models to data to assess changes in animal behaviour in response to anxiolytic drugs.
@@ -86,7 +94,7 @@ Prague, Czechia
 <code><img width="10%" height=50 src= 'https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg'></code>
 <code><img width="10%" height=50 src= 'https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg'></code>
 <code><img width="10%" height=50 src= 'https://matplotlib.org/_static/logo2.svg'></code>
-</code><img height=50 width="10%" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" /></code>
+</code><img height=50 width="15%" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" /></code>
 <br />
 
 
@@ -134,13 +142,13 @@ Prague, Czechia
 <img height = 70 src="https://upload.wikimedia.org/wikipedia/en/a/a0/MEGA7_logo.png" />
 <br />
 
-##### software system for document preparation
+##### Software system for document preparation
 
 <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 <img height = 30 src= https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black' />
 <br />
 															       
-#### collaborative Platform
+#### Collaborative Platform
 
 </code><img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/></code>
 </code><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></code> 
