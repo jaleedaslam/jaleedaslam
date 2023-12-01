@@ -9,9 +9,24 @@ I'm a motivated, team work-oriented and responsible Data Engineer with experienc
 
 ### Professional Experience
 
+#### Data Engineer (Sep 2023 – Present)
+
+LMU Munich – Ludwig-Maximilians-Universität München · Full-timeLMU Munich – Ludwig-Maximilians-Universität München · Full-time
+Sep 2023 - Present · 4 mosSep 2023 - Present · 4 mos
+
+Greater Munich Metropolitan Area · HybridGreater Munich Metropolitan Area · Hybrid
+Zentrum für Medizinische Datenintegration und -analyse (MeDICLMU)
+Medical Informatics-Initiative Germany - MII
+DIFUTURE – Data Integration for Future Medicine
+
+Sponsered by : Federal Ministry of Education and Research
+
+Skills: Elastic Search · Docker · Apache Superset · MetaBase · Scrum · Microsoft Power BI
+
+
 </code><img height=60 width="20%" src="https://github.com/jaleedaslam/jaleedaslam/blob/main/Cera.png"/></code>
 
-#### Data Engineer (Sep 2022 – Present)
+#### Data Engineer (Sep 2022 – sep 2023)
 Hamburg, Germany
 
 • Implement data flows to connect data for analytics and BI applications.
