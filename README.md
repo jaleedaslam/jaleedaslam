@@ -11,16 +11,19 @@ I'm a motivated, team work-oriented and responsible Data Engineer with experienc
 
 #### Data Engineer (Sep 2023 – Present)
 
-LMU Munich – Ludwig-Maximilians-Universität München · Full-timeLMU Munich – Ludwig-Maximilians-Universität München · Full-time
+LMU Munich – Ludwig-Maximilians-Universität München 
 Sep 2023 - Present · 4 mosSep 2023 - Present · 4 mos
 
-Greater Munich Metropolitan Area · HybridGreater Munich Metropolitan Area · Hybrid
+<br />
 Zentrum für Medizinische Datenintegration und -analyse (MeDICLMU)
+<br />
 Medical Informatics-Initiative Germany - MII
+<br />
 DIFUTURE – Data Integration for Future Medicine
+<br />
 
 Sponsered by : Federal Ministry of Education and Research
-
+<br />
 Skills: Elastic Search · Docker · Apache Superset · MetaBase · Scrum · Microsoft Power BI
 
 
