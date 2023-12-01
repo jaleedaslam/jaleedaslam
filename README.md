@@ -12,7 +12,7 @@ I'm a motivated, team work-oriented and responsible Data Engineer with experienc
 #### Data Engineer (Sep 2023 – Present)
 
 LMU Munich – Ludwig-Maximilians-Universität München 
-Sep 2023 - Present · 4 mosSep 2023 - Present · 4 mos
+Sep 2023 - Present 
 
 <br />
 Zentrum für Medizinische Datenintegration und -analyse (MeDICLMU)
