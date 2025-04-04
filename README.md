@@ -70,9 +70,7 @@ Berlin, Germany
 • Applying ML models to data to assess changes in animal behaviour in response to anxiolytic drugs.
 
 <br />
-<br />
 
-</code><img height=60 width="10%" src="https://github.com/jaleedaslam/jaleedaslam/blob/main/TKC.jpeg"/></code>
 
 
 #### MSM Academy s.r.o. · Contract
