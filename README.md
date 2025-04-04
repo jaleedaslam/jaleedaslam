@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Jaleed Aslam - Data Engineer 
+### Hi there 👋, I'm Jaleed Aslam - Scientist 
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="750" height="250"/>
@@ -9,7 +9,7 @@ I'm a motivated, team work-oriented and responsible Data Engineer with experienc
 
 ### Professional Experience
 
-#### Data Engineer (Sep 2023 – Present)
+#### Data Scientist (Sep 2023 – Present)
 
 LMU Munich – Ludwig-Maximilians-Universität München 
 Sep 2023 - Present 
@@ -29,7 +29,7 @@ Skills: Elastic Search · Docker · Apache Superset · MetaBase · Scrum · Micr
 
 </code><img height=60 width="20%" src="https://github.com/jaleedaslam/jaleedaslam/blob/main/Cera.png"/></code>
 
-#### Data Engineer (Sep 2022 – sep 2023)
+#### Data Scientist (Sep 2022 – sep 2023)
 Hamburg, Germany
 
 • Implement data flows to connect data for analytics and BI applications.
@@ -74,16 +74,6 @@ Berlin, Germany
 
 </code><img height=60 width="10%" src="https://github.com/jaleedaslam/jaleedaslam/blob/main/TKC.jpeg"/></code>
 
-#### The Kidney Centre (Post Graduate Training Institute) (Feb 2017 - Mar 2019) 
-karachi, PK
-
-• Performed analysis and evaluation on medical data on weekly basis.
-<br />
-• Collaborate with experts in the field to develop custom data analysis.
-<br />
-• Identify, manage, and contribute to external collaborations relevant to bioinformatics discovery.
-<br />
-• Answering customer queries and fixing issues remotely. 
 
 #### MSM Academy s.r.o. · Contract
 Sep 2016 - Sep 2018 
