@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Jaleed Aslam - Scientist 
+### Hi there 👋, I'm Jaleed Aslam 
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="750" height="250"/>
@@ -9,7 +9,7 @@ I'm a motivated, team work-oriented and responsible Data Engineer with experienc
 
 ### Professional Experience
 
-#### Data Scientist (Sep 2023 – Present)
+#### Data Engineer (Sep 2023 – Present)
 
 LMU Munich – Ludwig-Maximilians-Universität München 
 Sep 2023 - Present 
