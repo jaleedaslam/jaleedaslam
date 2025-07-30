@@ -29,7 +29,7 @@ Skills: Elastic Search · Docker · Apache Superset · MetaBase · Scrum · Micr
 
 </code><img height=60 width="20%" src="https://github.com/jaleedaslam/jaleedaslam/blob/main/Cera.png"/></code>
 
-#### Data Scientist (Sep 2022 – sep 2023)
+#### Data Engineer/Scientist (Sep 2022 – sep 2023)
 Hamburg, Germany
 
 • Implement data flows to connect data for analytics and BI applications.
@@ -60,7 +60,7 @@ Analysis of sources of variance in animals behavioral activity in OFT using hist
 
 </code><img height=50 width="20%" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/BIH_Logo_at-Charite_kurz_quer_rgb.jpg"/></code>
 
-#### Data Analyst & Machine Learning Intern (Jun 2021 - Aug 2021)
+#### Data Science - Research Internship (Jun 2021 - Aug 2021)
 Berlin, Germany
 
 • Data collection, analyzing the data, create reports and present findings.
@@ -70,7 +70,6 @@ Berlin, Germany
 • Applying ML models to data to assess changes in animal behaviour in response to anxiolytic drugs.
 
 <br />
-
 
 
 #### MSM Academy s.r.o. · Contract
