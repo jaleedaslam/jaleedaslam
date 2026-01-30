@@ -72,10 +72,6 @@ Berlin, Germany
 <br />
 
 
-#### MSM Academy s.r.o. · Contract
-Sep 2016 - Sep 2018 
-Prague, Czechia
-<br />
 
 ### University Degree - MSc Bioinformatics (Data Sciecne)
 
